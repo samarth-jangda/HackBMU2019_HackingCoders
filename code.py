@@ -57,3 +57,4 @@ plt.grid()                           # This gives the grid in the graph
 #     plt.text(rect.get_x() + rect.get_width() / 2, rect.get_height() + 150, format(label, '.2f'), ha='center', va='top')
 # In order to show the whole graph use:
 plt.show()
+
