@@ -30,3 +30,4 @@ plt.grid()                           # This gives the grid in the graph
 plt.show()
 # Then print the deaths
 print(deaths)
+#Finally the Death is printed
