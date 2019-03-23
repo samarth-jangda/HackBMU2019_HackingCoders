@@ -57,4 +57,15 @@ plt.grid()                           # This gives the grid in the graph
 #     plt.text(rect.get_x() + rect.get_width() / 2, rect.get_height() + 150, format(label, '.2f'), ha='center', va='top')
 # In order to show the whole graph use:
 plt.show()
+# Then print the deaths
+print(diseases)
+causes = pd.read_csv("C:\\Users\\LENOVO\\Documents\\Book1.csv")
+print(causes)
+#After that we will be plotting the graph
+plt.clf()          # clf is clear data frame
+# plt.figure(figsize = (18, 14), dpi=120)
+
+# Preparing bars for Average DR
+barDR = plt.bar(causes["Year"], causes["Inst. Deaths"], width = 0.65, align = 'center', color = 'magenta',
+                label = 'Inst. Deaths')                                      #This will plot bar graph
 
