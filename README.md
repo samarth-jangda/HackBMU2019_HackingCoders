@@ -12,14 +12,28 @@ The app will be a multilanguage chatbot on AOG platform which speaks multi langu
 
 a)  ***Free Health Camps:*** - It provide information to people about the nearby health camps in their area.
     So that they can locate them on map and reach easily and get their checkup done.
+
+
 b)  ***Request For blood:*** - Suppose a person is in immediate need of blood and in hospital no blood is found then our app will
     immediately connect them to blood donors from where they can get blood. 
+
+
 c)  ***Instant Remedy***- Suppose a person have a hearth attack  so the other person near him can immediately ask our chatbot
     “what to do during heart attack “ .Our chatbot would guide him step by step  so that he can saves the life of person.
+
+
 d)  ***Appointment Booking***-You can easily book your appointment by saying “book my appointment”and mentioning date and time.
+
+
 e)  You can find nearest government-run nutrition centers .The chatbot provies real-time information about the capacity and bed availability
     as well as contact and direction.
+
+
 f) Search Best Hospitals And Doctors near you.By entering the pincode you can find the nearest best doctor and hospitals.
+
+
 g) Ask for health food .You can select the particular meal(breakfast,dinner,snaks,etc.) ,food preference(veg or non-veg) and chatbot 
     gives you suggestions of food
+
+
 h) You can tell the chatbot about your symptoms and it gives you the best diagnostic.Also it suggests  you medicines and their dosage.
