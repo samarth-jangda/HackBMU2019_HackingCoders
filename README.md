@@ -32,7 +32,7 @@ e)  You can find nearest government-run nutrition centers .The chatbot provies r
 f) Search Best Hospitals And Doctors near you.By entering the pincode you can find the nearest best doctor and hospitals.
 
 
-g) Ask for health food .You can select the particular meal(breakfast,dinner,snaks,etc.) ,food preference(veg or non-veg) and chatbot 
+g) Ask for healthy food .You can select the particular meal(breakfast,dinner,snaks,etc.) ,food preference(veg or non-veg) and chatbot 
     gives you suggestions of food
 
 
