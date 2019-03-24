@@ -1,5 +1,5 @@
 # HackBMU2019_HackingCoders
-Ideas On Theme Of Health
+Ideas On Theme Of HealthCare
 
 
 ***Analysis  System:*** -The analysis  system consists of a dataset for all hospitals of India which helps in finding ways to 
